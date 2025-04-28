@@ -1,6 +1,6 @@
 -- Create database
-CREATE DATABASE IF NOT EXISTS money_splitter;
-USE money_splitter;
+CREATE DATABASE IF NOT EXISTS dmoney_splitter;
+USE dmoney_splitter;
 
 -- Table: users
 CREATE TABLE IF NOT EXISTS users (

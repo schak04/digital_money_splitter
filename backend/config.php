@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';        
-$db   = 'money_splitter';   
+$db   = 'dmoney_splitter';   
 $db_user = 'root';             
 $pass = '';         
 $charset = 'utf8mb4';
