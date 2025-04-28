@@ -2,7 +2,7 @@
 $host = 'localhost';        
 $db   = 'money_splitter';   
 $db_user = 'root';             
-$pass = 'root';         
+$pass = '';         
 $charset = 'utf8mb4';
 
 // Set up DSN and options for PDO
